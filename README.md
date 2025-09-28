@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **Keshavraj9954@gmail.com** For Collaboration/Project or An
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
