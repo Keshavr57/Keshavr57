@@ -1,18 +1,54 @@
-💫 Hi 👋, I'm Keshav Rajput
+# 👋 Hi, I'm Keshav Rajput
 
+Full-stack developer building AI-powered SaaS and data-driven products.
 
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+I specialize in turning ideas into real, deployed products using:
+React, Node.js, FastAPI, MongoDB, PostgreSQL, and modern AI stacks (RAG, LLMs, embeddings).
 
-Email Me 👉 ✉️ **Keshavraj9954@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+---
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+## 🚀 What I’ve Built
+
+### 🧠 SmartStock
+AI-powered stock analysis & virtual trading platform  
+• Stock comparison, IPO insights, news & AI advisor  
+• Built with React, TypeScript, FastAPI, MongoDB, RAG (LLaMA + embeddings)  
+• Secure auth with JWT & Google OAuth  
+
+👉 Live: https://smart-stock-ku3d.vercel.app/
+👉 Code: https://github.com/Keshavr57/SmartStock 
+
+---
+
+### ✨ Aivora AI
+All-in-one AI SaaS for content, images & resumes  
+• GenAI tools, image editing, resume analysis  
+• Razorpay subscriptions + Google OAuth  
+• Built with React, Node.js, PostgreSQL (Prisma), and AI APIs  
+
+👉 Live:https://aivora-by-keshav.vercel.app/
+👉 Code: https://github.com/Keshavr57/Quick-Ai
+
+---
+
+## 🧩 What I Work With
+
+**Languages:** TypeScript, JavaScript, Python  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, FastAPI  
+**Databases:** MongoDB, PostgreSQL  
+**AI:** RAG, LLM APIs, embeddings, vector search  
+**Auth & Payments:** JWT, Google OAuth, Razorpay  
+**DevOps:** Vercel, Render, Railway, Docker (basic)
+
+---
+
+## 📬 Contact
+📧 keshavraj9954@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/keshavrajput/
+
+I’m always open to building real products and solving real problems.
+
 
 
 
